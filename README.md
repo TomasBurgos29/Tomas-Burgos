@@ -1,3 +1,3 @@
 # prueba01
 
-Tomas Burgos
+Tomas Burgos, estudiante de economia 
