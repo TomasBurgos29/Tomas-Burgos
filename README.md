@@ -1,3 +1,3 @@
-# prueba01
+# BIENVENIDO
 
-Tomas Burgos, estudiante de economia 
+Soy Tomás Burgos, estudiante de economía 
